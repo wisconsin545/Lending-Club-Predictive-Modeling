@@ -1,5 +1,5 @@
-# Lending-Club-Predictive-Modeling
-The goal here was to create a loan ingestion pathway from Lending Club's API and use a rules engine to buy peer to peer loans based on our predictive models. 
+# Lending-Club-Predictive-Modeling - Art Taylor and Daniel Prusinski 
+The goal here was to create a loan ingestion pathway from Lending Club's API and use a rules engine to buy peer to peer loans based on our predictive models. *Special thanks to Reed Thunstrom for the Python coaching. 
 
  # Lending club loan parser
 This is an engine to parse both lending club loans and secondary market notes.
