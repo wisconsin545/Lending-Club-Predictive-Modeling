@@ -1,10 +1,13 @@
-#Lending club loan parser
+# Lending-Club-Predictive-Modeling
+The goal here was to create a loan ingestion pathway from Lending Club's API and use a rules engine to buy peer to peer loans based on our predictive models. 
+
+ # Lending club loan parser
 This is an engine to parse both lending club loans and secondary market notes.
 
-##Install
+## Install
 `Npm install` should be everything you need.
 
-##After install
+## After install
 You need a Lending club account in order for this application to run. After you have an api key and account key, create a file called `config.json` in the base directory. The file should look similar to:
 
 	
